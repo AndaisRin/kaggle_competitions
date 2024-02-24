@@ -4,6 +4,6 @@
 
 Использованное ПО и ОС:
 - Microsoft Windows [Version 10.0.22631.3155]
-- Python 3.11.5
+- Python 3.9.18
 - PyCharm 2023.3.3
 - Chrome 122.0.6261.58

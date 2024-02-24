@@ -110,7 +110,7 @@ def create_email_text(num_rows):
 options = Options()
 options.add_experimental_option("excludeSwitches", ['enable-logging'])
 options.add_argument("user-agent=[Chrome/122.0.6261.58]")
-service = Service('D:\\Python_Data\\competitions_projects\\11_greenatom_rpa\\resourse\\chromedriver.exe')
+service = Service('D:\\Python_Data\\competitions_projects\\11_greenatom_moex\\resourse\\chromedriver.exe')
 driver = webdriver.Chrome(service=service, options=options)
 print("Начинаем работу парсера")
 
